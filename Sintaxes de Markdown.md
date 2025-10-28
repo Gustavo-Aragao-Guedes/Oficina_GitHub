@@ -137,4 +137,6 @@ Exemplo:
   - [ ] Escrever documentação
 - [x] Publicar versão inicial
 
+## Referenciar Issues e PRs
 
+Veja a issue 
