@@ -126,3 +126,15 @@ Transformar uma imagem em um link clicável
 | **Café**    | R$ 10  | [Comprar](#)          |
 | *Chá*       | R$ 8   | <a href="#">Comprar</a> |
 
+## Task List
+
+- [ ] Tarefa pendente
+- [x] Tarefa concluída
+
+Exemplo:  
+- [ ] Criar projeto
+  - [x] Configurar repositório
+  - [ ] Escrever documentação
+- [x] Publicar versão inicial
+
+
