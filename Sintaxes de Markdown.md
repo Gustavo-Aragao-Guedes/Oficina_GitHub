@@ -96,7 +96,7 @@ Direcionam para seções específicas do mesmo documento
 **Links Relativos**  
 Vincular arquivos no mesmo projeto
 
-- [Veja os códigos de exemplo](Códigos/Programa_Exemplo_1.py)
+- [Veja os códigos de exemplo](Codigos/Programa_Exemplo_1.py)
 
 **Links em Imagens**  
 Transformar uma imagem em um link clicável
