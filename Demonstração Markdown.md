@@ -61,6 +61,7 @@ Mostrando `Código 1 crase` crases no Github
 
 ![Texto alternativo](URL-da-imagem "Título opcional")
 
+Exemplo:  
 ![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
 
 **Imagem Local**
@@ -73,6 +74,15 @@ Para imagens armazenadas localmente, use o caminho relativo ou absoluto:
 
 [![Texto alternativo](URL-da-imagem)](URL-do-link)
 
+Exemplo:  
 [![Logo do Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
 
+**Links**
 
+[Texto do Link](URL)
+
+Exemplo: [Visite o GitHub](https://github.com)
+
+Links Internos (Âncoras) - Direcionam para seções específicas do mesmo documento
+
+[Ir para a seção Códigos](#imagens)
