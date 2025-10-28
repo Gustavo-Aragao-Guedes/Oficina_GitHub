@@ -85,4 +85,4 @@ Exemplo: [Visite o GitHub](https://github.com)
 
 Links Internos (Âncoras) - Direcionam para seções específicas do mesmo documento
 
-[Ir para a seção Códigos](#imagens)
+[Ir para a seção Códigos](#códigos)
