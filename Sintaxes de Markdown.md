@@ -139,4 +139,4 @@ Exemplo:
 
 ## Referenciar Issues e PRs
 
-Veja a issue 
+Veja a issue #1
