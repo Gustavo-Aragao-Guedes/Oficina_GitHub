@@ -4,6 +4,8 @@
 
 ### Título (Menor, sem divisão)
 
+## Texto
+
 *Texto em itálico - Opção 1*
 
 _Texto em itálico - Opção 2_
@@ -12,6 +14,7 @@ _Texto em itálico - Opção 2_
 
 __Texto em negrito - Opção 2__
 
+***Texto em itálico e negrito***
 
 ## Códigos
 
@@ -23,9 +26,9 @@ print("Hello, World! Com Python")
 console.log("Hello, World! Com Javascript");
 ```
 
-Crases:
+**Crases**
 
-Mostrando `Código 1 crase` crases no Github
+`Código 1 crase`
 
 ```Código 2 crases```
 
@@ -33,7 +36,7 @@ Mostrando `Código 1 crase` crases no Github
 
 ## Listas
 
-### Listas não ordenadas (bullet points)
+**Listas não ordenadas (bullet points)**
 
 - Item 1
 - Item 2
@@ -42,13 +45,13 @@ Mostrando `Código 1 crase` crases no Github
 * Outro item
 + Mais um item
 
-### Listas ordenadas (numeradas)
+**Listas ordenadas (numeradas)**
 
 1. Item 1
 2. Item 2
 3. Item 3
 
-### Listas aninhadas (mistas)
+**Listas aninhadas (mistas)**
 
 1. Item 1
    - Detalhe A
@@ -77,12 +80,23 @@ Para imagens armazenadas localmente, use o caminho relativo ou absoluto:
 Exemplo:  
 [![Logo do Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
 
-**Links**
+## Links
 
-[Texto do Link](URL)
+Link Externo
 
-Exemplo: [Visite o GitHub](https://github.com)
+- [Texto do Link](URL)
 
-Links Internos (Âncoras) - Direcionam para seções específicas do mesmo documento
+- Exemplo: [Visite o GitHub](https://github.com)
 
-[Ir para a seção Códigos](#códigos)
+**Links Internos (Âncoras)**  
+Direcionam para seções específicas do mesmo documento
+
+- [Ir para a seção Códigos](#códigos)
+
+**Links Relativos**
+
+[Leia mais sobre Markdown](docs/markdown-guia.md)
+
+**Links em Imagens**
+
+[![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
