@@ -82,7 +82,7 @@ Exemplo:
 
 ## Links
 
-Link Externo
+**Link Externo**
 
 - [Texto do Link](URL)
 
@@ -93,10 +93,36 @@ Direcionam para seções específicas do mesmo documento
 
 - [Ir para a seção Códigos](#códigos)
 
-**Links Relativos**
+**Links Relativos**  
+Vincular arquivos no mesmo projeto
 
-[Leia mais sobre Markdown](docs/markdown-guia.md)
+- [Leia mais sobre Markdown](docs/markdown-guia.md)
 
-**Links em Imagens**
+**Links em Imagens**  
+Transformar uma imagem em um link clicável
 
 [![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+
+## Tabelas
+
+**Tabela básica**
+
+| Coluna 1 | Coluna 2 | Coluna 3 |
+|----------|----------|----------|
+| Linha 1  | Dado 1   | Dado 2   |
+| Linha 2  | Dado 3   | Dado 4   |
+
+**Alinhamento de colunas**
+
+| Esquerda     | Centro       | Direita     |
+|:-------------|:------------:|------------:|
+| Texto A      | Texto B      | Texto C     |
+| À esquerda   | Centralizado | À direita   |
+
+**Formatação dentro das células**
+
+| Produto     | Preço  | Link                  |
+|-------------|--------|-----------------------|
+| **Café**    | R$ 10  | [Comprar](#)          |
+| *Chá*       | R$ 8   | <a href="#">Comprar</a> |
+
