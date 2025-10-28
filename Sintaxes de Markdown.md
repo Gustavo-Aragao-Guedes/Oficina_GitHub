@@ -71,7 +71,7 @@ Exemplo:
 
 Para imagens armazenadas localmente, use o caminho relativo ou absoluto:
 
-![Minha Imagem](./imagens/exemplo.png)
+![Minha Imagem](./Imagens/mackenzie_logo.png)
 
 **Imagem com Link**
 
