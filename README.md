@@ -4,7 +4,7 @@ Repositório para mostrar algumas das funcionalidades do GitHub para a apresenta
 Apresentação:  
 https://www.canva.com/design/DAG1Hn3D_ic/RRV3XdtNGMZXOUhb1asoog/edit
 
-## Informações importantes de README
+## Informações importantes de estar no README
 - Descrição do projeto
 - Motivação para a criação do projeto
 - Como instalar o projeto
