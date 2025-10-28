@@ -1,8 +1,8 @@
-# Título (Maior, com divisão - ###)
+# Título (Maior, com divisão)
 
-## Título (Médio, com divisão - ##)
+## Título (Médio, com divisão)
 
-### Título (Menor, sem divisão - ###)
+### Título (Menor, sem divisão)
 
 *Texto em itálico - Opção 1*
 
