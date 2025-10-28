@@ -139,5 +139,29 @@ Exemplo:
 
 ## Referenciar Issues e PRs
 
-Veja a issue #1
+**Referência no mesmo repositório**
 
+- Número precedido de #  
+- Exemplo: Ver a Issue #1
+
+**Referência cruzada para outro repositório**
+
+- usuario/repositorio#numero  
+- Veja a correção em usuario/projeto#101
+
+## Menção
+
+**Menção simples**
+
+- Em Markdown Puro é apenas texto. Requer a instalação de extensão para interpretação  
+- @usuario
+
+**Menção com link manual**
+
+- Menção clicável para um perfil  
+- [@Gustavo Aragão](https://github.com/Gustavo-Aragao-Guedes)
+
+## Emojis
+
+- Usar o código entre dois pontos (:)
+- Exemplo: Olá, mundo! :smile: :rocket:
