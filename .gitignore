@@ -1,31 +1,69 @@
-# Built things
-_Debug/
-Compiled/
+# Sistema
+.DS_Store
+Thumbs.db
 
-# AudioCache can be rebuilt from sources
-AudioCache/
+# Logs
+*.log
 
-# Lockfile
-_OpenInEditor.lock
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.swp
 
-# User settings
-Game.agf.user
-*.crm.user
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.env
 
-# Backups
-Game.agf.bak
-backup_acsprset.spr
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+dist/
 
-# Memory dumps
-*.dmp
+# Java
+*.class
+*.jar
+target/
+build/
+*.war
 
-# Temporary files
-# temporarily created during sprite or room background compression
-~aclzw.tmp
-# temporary, main game data, before getting packed into exe
-game28.dta
-# temporary build of the game before being moved to Compiled/ folder
+# C / C++
+*.o
+*.obj
 *.exe
+*.out
+/build/
 
-# Log files
-warnings.log
+# Compilação/artefatos
+bin/
+obj/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.orig
+
+# Pacotes/arquivos gerados
+*.pyc
+*.egg-info/
+*.egg
+
+# Sistema de build multiplataforma
+.gradle/
+.gradle-cache/
+
+# Certificados/keys (não commitar)
+*.pem
+*.key
+
+# Outros
+coverage/
+*.cover
+.vagrant/
