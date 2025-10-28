@@ -71,11 +71,11 @@ Exemplo:
 
 Para imagens armazenadas localmente, use o caminho relativo ou absoluto:
 
-![Minha Imagem](./Imagens/mackenzie_logo.png)
+Caminho absoluto:  
+![Logo Mackenzie](./Imagens/mackenzie_logo.png)
 
 Caminho relativo:  
 <img width="600" height="600" alt="mackenzie_logo" src="https://github.com/user-attachments/assets/2616b6c8-0dbf-4b56-bcc2-0cdc3a707dab" />
-
 
 **Imagem com Link**
 
@@ -169,7 +169,4 @@ Exemplo:
 
 - Usar o código entre dois pontos (:)
 - Exemplo: Olá, mundo! :smile: :rocket:
-
-
-![Uploading mackenzie_logo.png…]()
 
