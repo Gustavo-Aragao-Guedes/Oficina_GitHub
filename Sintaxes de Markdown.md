@@ -96,7 +96,7 @@ Direcionam para seções específicas do mesmo documento
 **Links Relativos**  
 Vincular arquivos no mesmo projeto
 
-- [Leia mais sobre Markdown](docs/markdown-guia.md)
+- [Veja os códigos de exemplo](Códigos/Código_Exemplo_1.py)
 
 **Links em Imagens**  
 Transformar uma imagem em um link clicável
