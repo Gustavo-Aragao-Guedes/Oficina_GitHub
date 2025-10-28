@@ -4,7 +4,7 @@ def processar_dados(dados):
     """
     Função genérica para processar dados.
     Aqui você pode implementar qualquer lógica necessária.
-    Exemplo: retornar o dado em maiúsculas.
+    Exemplo: retornar o dado em maiúscula.
     """
     return dados.upper()
 
