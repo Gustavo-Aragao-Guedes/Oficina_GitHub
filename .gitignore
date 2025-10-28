@@ -1,3 +1,9 @@
+# Ignorar diretórios de Codigos
+# /Imagens/
+
+# Ignorar arquivos específicos
+# Programa_Exemplo_2.cpp
+
 # Sistema
 .DS_Store
 Thumbs.db
